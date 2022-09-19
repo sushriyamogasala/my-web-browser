@@ -75,7 +75,7 @@ class MainWindow(QMainWindow):
         print("missing url")  
 
     else:
-        print(url)
+        print(url not available)
 '''
 MyApp = QApplication(sys.argv)
 QApplication.setApplicationName("Sushriya's Web Browser")
