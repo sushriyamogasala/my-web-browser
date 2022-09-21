@@ -1,6 +1,6 @@
 # <h1 align="center"> My Web Browser 🌐</h1>
 
-## What is a Web Browser ?
+## What is a Web Browser 🔁?
 A web browser (also referred to as an Internet browser or simply a browser) is application software for accessing the World Wide Web or a local website. When a user requests a web page from a particular website, the web browser retrieves its files from a web server and then graphically renders the page on the user's screen.
 
 ## What is a Search engine 🔍?
