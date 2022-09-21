@@ -35,3 +35,10 @@ A web browser is not the same thing as a search engine, though the two are often
 - g. triggered : For instance: if the Home button is clicked it will connect it to the NavigateHome. It means that if we click the button it will be triggered to perform some action.
 - h. connect(): For instance: if we click ReloadButton it will connect it to the browser. Basically, it is used to connect.
 - i. addAction(): For adding any action this method is used.
+- j. QLineEdit(): Keyboard input is received with this widget.
+- k. text(): It is used to get the value.
+- l. urlChanged: If the url is changed, urlChanged is used.
+- m.setText: The value of the textbox is set with this widget.
+- n. QApplication:This class manages main settings and Graphical User Interface control flow.
+- o. setApplicationName(): Title of the main window is set by this widget.
+- p. exec(): Execution of the QApplication object in the event loop is done with exec().
