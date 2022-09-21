@@ -17,4 +17,21 @@ A web browser is not the same thing as a search engine, though the two are often
 -  About PyQt5 :- PyQt5 is a comprehensive set of Python bindings for Qt v5. 
 -  It is implemented as more than 35 extension modules and enables Python to be used as an alternative application development language to C++ on all supported platforms including iOS and Android. 
 -  PyQt5 may also be embedded in C++ based applications to allow users of those applications to configure or enhance the functionality of those applications.
+ 
+### Tab 1
+![tab1](https://user-images.githubusercontent.com/104165177/191575462-6b807a05-4f3b-4fc0-9e5e-6cda594c6892.png)
+### Tab 2
+![tab2](https://user-images.githubusercontent.com/104165177/191575492-e9831165-2f42-40c1-a928-6fdc1014966b.png)
+### Tab 3
+![tab3](https://user-images.githubusercontent.com/104165177/191575527-1c0b6bcc-7e2e-4d28-ad9b-711fa1d92365.png)
 
+### Code Explanation:
+- a. sys : Different parts of the runtime module are manipulated with this module. It provides various functions and variables to do this.
+- b. PyQt5: It is a module which helps in building Graphical User Interface modules in Python.
+- c. QtCore: This module contains Non-Graphical User Interface functionality.
+- d. Qtwidgets: User Interface is created in Qt with the help of them.
+- e. QtWebEngineWidgets: This framework embeds the web content in the application.
+- f. QAction(): Each command is represented as an action with the help of QAction.
+- g. triggered : For instance: if the Home button is clicked it will connect it to the NavigateHome. It means that if we click the button it will be triggered to perform some action.
+- h. connect(): For instance: if we click ReloadButton it will connect it to the browser. Basically, it is used to connect.
+- i. addAction(): For adding any action this method is used.
