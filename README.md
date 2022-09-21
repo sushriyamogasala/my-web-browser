@@ -11,4 +11,6 @@ A web browser is not the same thing as a search engine, though the two are often
 
 ![image](https://user-images.githubusercontent.com/104165177/191278259-052adddb-7319-462f-96ed-fb63cb8a7332.png)
 ### About technologies used :
-The module used here is PyQt5. About Qt - Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. These include location and positioning services, multimedia, NFC and Bluetooth connectivity, a Chromium based web browser, as well as traditional UI development.
+The module used here is PyQt5. About Qt - Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. 
+
+These include location and positioning services, multimedia, NFC and Bluetooth connectivity, a Chromium based web browser, as well as traditional UI development.
