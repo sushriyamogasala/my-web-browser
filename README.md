@@ -10,6 +10,13 @@ A search engine is a kind of website through which users can search the content 
 A web browser is not the same thing as a search engine, though the two are often confused. A search engine is a website that provides links to other websites. However, to connect to a website's server and display its web pages, a user must have a web browser installed.
 
 ![image](https://user-images.githubusercontent.com/104165177/191278259-052adddb-7319-462f-96ed-fb63cb8a7332.png)
+
+#### This project is a browser made using python.
+This browser has features like:
+- Previous - Navigates to previous page
+- Next - Navigates to the next page
+- Refresh - Reloads the page
+- Home - Navigaves to home page
 ### About technologies used :
 - The module used here is PyQt5.
 -  About Qt :- Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. 
@@ -21,10 +28,9 @@ A web browser is not the same thing as a search engine, though the two are often
 ### Tab 1
 ![tab1](https://user-images.githubusercontent.com/104165177/191575462-6b807a05-4f3b-4fc0-9e5e-6cda594c6892.png)
 ### Tab 2
-![tab2](https://user-images.githubusercontent.com/104165177/191575492-e9831165-2f42-40c1-a928-6fdc1014966b.png)
+![tab3](https://user-images.githubusercontent.com/104165177/191575527-1c0b6bcc-7e2e-4d28-ad9b-711fa1d92365.png) 
 ### Tab 3
-![tab3](https://user-images.githubusercontent.com/104165177/191575527-1c0b6bcc-7e2e-4d28-ad9b-711fa1d92365.png)
-
+![tab4](https://user-images.githubusercontent.com/104165177/191577454-dd9d295d-47b3-42df-bb6a-b53a5656046e.png)
 ### Code Explanation:
 - a. sys : Different parts of the runtime module are manipulated with this module. It provides various functions and variables to do this.
 - b. PyQt5: It is a module which helps in building Graphical User Interface modules in Python.
@@ -43,4 +49,18 @@ A web browser is not the same thing as a search engine, though the two are often
 - o. setApplicationName(): Title of the main window is set by this widget.
 - p. exec(): Execution of the QApplication object in the event loop is done with exec().
 ### Tab 4
-![tab4](https://user-images.githubusercontent.com/104165177/191577454-dd9d295d-47b3-42df-bb6a-b53a5656046e.png)
+![tab2](https://user-images.githubusercontent.com/104165177/191575492-e9831165-2f42-40c1-a928-6fdc1014966b.png)
+
+### Reason why I have used Ecosia as my search engine :
+- Plant trees by doing nothing
+#### Ecosia Is a Privacy-Friendly Search Engine
+
+- While Ecosia uses a tracking tool to collect a small amount of data to optimize their services, they don't use any external or third parties. This way, they can prevent others from accessing your searches and using the data.
+- Each time we search for a result the count of trees increases in the right most corner of the browser indicating the number of searches we have done so far and those many trees will be planted by the Ecosia organization.
+
+
+### The main advantage of this browser is :
+
+- Ecosia cares about its users’ privacy. They don’t sell your data to advertisers and they allow you to turn off all tracking.
+- It doesn't save browsing history
+- So it is completely safe to use.
