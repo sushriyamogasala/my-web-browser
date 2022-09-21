@@ -56,7 +56,7 @@ This browser has features like:
 #### Ecosia Is a Privacy-Friendly Search Engine
 
 - While Ecosia uses a tracking tool to collect a small amount of data to optimize their services, they don't use any external or third parties. This way, they can prevent others from accessing your searches and using the data.
-- Each time we search for a result the count of trees increases in the right most corner of the browser indicating the number of searches we have done so far and those many trees will be planted by the Ecosia organization.
+- Each time we search for a result the count of trees increases in the right most corner of the browser indicating the number of searches we have done so far and those many trees will be planted by the Ecosia organization or they make money through the searches and release reports about how much they have spent on trees.
 
 
 ### The main advantage of this browser is :
