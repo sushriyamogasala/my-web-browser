@@ -42,3 +42,5 @@ A web browser is not the same thing as a search engine, though the two are often
 - n. QApplication:This class manages main settings and Graphical User Interface control flow.
 - o. setApplicationName(): Title of the main window is set by this widget.
 - p. exec(): Execution of the QApplication object in the event loop is done with exec().
+### Tab 4
+![tab4](https://user-images.githubusercontent.com/104165177/191577454-dd9d295d-47b3-42df-bb6a-b53a5656046e.png)
