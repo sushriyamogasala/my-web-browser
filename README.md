@@ -49,7 +49,8 @@ This browser has features like:
 - o. setApplicationName(): Title of the main window is set by this widget.
 - p. exec(): Execution of the QApplication object in the event loop is done with exec().
 ### Tab 4
-![tab2](https://user-images.githubusercontent.com/104165177/191575492-e9831165-2f42-40c1-a928-6fdc1014966b.png)
+![tab3](https://user-images.githubusercontent.com/104165177/191654957-679d93f6-7f53-45e3-b9b7-cc4135b79ef7.png)
+
 
 ### Reason why I have used Ecosia as my search engine :
 - Plant trees by doing nothing
